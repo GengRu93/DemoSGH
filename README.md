@@ -25,7 +25,7 @@ There are five dynamic demos, and web page loading may take some time.
   <img src="https://github.com/GengRu93/DemoSGH/blob/main/MixFPU_NODE.gif" width="400" height="400"/>
   </div>
   
- # 2D zigzag system
+ # 2D KG-LRI system
  There are five dynamic demos, and web page loading may take some time.
  
  <div id="header" align="center">
