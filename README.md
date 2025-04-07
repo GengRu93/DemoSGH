@@ -1,16 +1,22 @@
-# DemoSGH
-Here we present the comparative results of neural network models predicting particle positions in lattice systems.
+# Separable graph Hamiltonian network: A graph deep learning model for lattice systems
+Author:Ru Geng, Jian Zu, Yixian Gao, Hong-Kun Zhang
+Paper: DOI: 10.1103/PhysRevResearch.6.013176
 
-Black particles represent the ground truth.
+# Usage
+Generate multi trajectory data: get_data_***_multi.py
+Training model: a1_train_***.py
+Test the model after training is completed: a0_test_***.py
+Prediction trajectory error varies over time：a0_fig_MSEstate.py
 
-Red particles represent predicted positions.
 
-If the dynamic demos cannot be loaded, you can also download the file to view the gif.
+ 
+
+ 
 
 
 
 # FPU-KG system
-There are five dynamic demos, and web page loading may take some time.
+Dynamic demonstration of five models predicting trajectories, black particles represent the ground truth and red particles represent predicted positions.
 
 <div id="header" align="center">
   <img src="https://github.com/GengRu93/DemoSGH/blob/main/MixFPU_SGHN.gif" width="400" height="400"/>
@@ -26,7 +32,7 @@ There are five dynamic demos, and web page loading may take some time.
   </div>
   
  # KG-LRI system
- There are five dynamic demos, and web page loading may take some time.
+ Dynamic demonstration of five models predicting trajectories, black particles represent the ground truth and red particles represent predicted positions.
  
  <div id="header" align="center">
   <img src="https://github.com/GengRu93/DemoSGH/blob/main/KGLRI_SGHN.gif" width="400" height="400"/>
@@ -42,7 +48,7 @@ There are five dynamic demos, and web page loading may take some time.
   </div>
   
    # 2D FK system
-   There are five dynamic demos, and web page loading may take some time.
+  Dynamic demonstration of five models predicting trajectories, black particles represent the ground truth and red particles represent predicted positions.
  
  <div id="header" align="center">
   <img src="https://github.com/GengRu93/DemoSGH/blob/main/2DFK_SGHN.gif" width="400" height="400"/>
