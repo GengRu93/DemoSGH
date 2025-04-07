@@ -9,12 +9,6 @@ Test the model after training is completed: a0_test_***.py
 Prediction trajectory error varies over time：a0_fig_MSEstate.py
 
 
- 
-
- 
-
-
-
 # FPU-KG system
 Dynamic demonstration of five models predicting trajectories, black particles represent the ground truth and red particles represent predicted positions.
 
