@@ -2,7 +2,9 @@
 
 Author: Ru Geng, Jian Zu, Yixian Gao, Hong-Kun Zhang
 
-Paper: DOI: 10.1103/PhysRevResearch.6.013176
+Paper: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013176
+
+DOI: 10.1103/PhysRevResearch.6.013176
 
  
 <img src="https://github.com/GengRu93/DemoSGH/blob/main/fig_SGHN.png" width="800" height="400"/>
