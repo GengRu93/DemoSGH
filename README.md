@@ -1,9 +1,12 @@
 # Separable graph Hamiltonian network: A graph deep learning model for lattice systems
 
-Author:Ru Geng, Jian Zu, Yixian Gao, Hong-Kun Zhang
+Author: Ru Geng, Jian Zu, Yixian Gao, Hong-Kun Zhang
 
 Paper: DOI: 10.1103/PhysRevResearch.6.013176
 
+<div id="header" align="center">
+  <img src="https://github.com/GengRu93/DemoSGH/blob/main/fig_SGHN.png" width="800" height="400"/>
+  
 # Usage
 
 Generate multi trajectory data: get_data_***_multi.py
