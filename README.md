@@ -22,19 +22,14 @@ Prediction trajectory error varies over time：a0_fig_MSEstate.py
 
 # FPU-KG system
 Dynamic demonstration of five models predicting trajectories, black particles represent the ground truth and red particles represent predicted positions.
-
-<div id="header" align="center">
-  <img src="https://github.com/GengRu93/DemoSGH/blob/main/MixFPU_SGHN.gif" width="100" height="100"/>
-
-   </div>
+ 
   <div id="header" align="center">
+   <img src="https://github.com/GengRu93/DemoSGH/blob/main/MixFPU_SGHN.gif" width="100" height="100"/>
   <img src="https://github.com/GengRu93/DemoSGH/blob/main/MixFPU_SympNetG.gif" width="100" height="100"/>
 <img src="https://github.com/GengRu93/DemoSGH/blob/main/MixFPU_SympNetLA.gif" width="100" height="100"/>
-   </div>
-   <div id="header" align="center">
- <img src="https://github.com/GengRu93/DemoSGH/blob/main/MixFPU_HNN.gif" width="100" height="100"/>
+    <img src="https://github.com/GengRu93/DemoSGH/blob/main/MixFPU_HNN.gif" width="100" height="100"/>
   <img src="https://github.com/GengRu93/DemoSGH/blob/main/MixFPU_NODE.gif" width="100" height="100"/>
-  </div>
+ 
   
  # KG-LRI system
  Dynamic demonstration of five models predicting trajectories, black particles represent the ground truth and red particles represent predicted positions.
